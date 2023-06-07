@@ -1,0 +1,10 @@
+{
+  "name": "@festack-cli/template-koa",
+  "version": "0.0.1",
+  "description": "festack koa template",
+  "author": "vaeian",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
